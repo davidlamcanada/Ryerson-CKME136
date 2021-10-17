@@ -1,10 +1,10 @@
 # Ryerson University - CKME136 Capstone Project
 ## Image Descriptions
 
-### Context
+### Purpose
 I completed this capstone project as the final assignment for the Data Analytics program at Ryerson University
 
-### Problem
+### Goal
 By using the dataset, I want to create a classification algorithm that would predict the best word and image combination.
 
 ### Dataset
