@@ -11,4 +11,4 @@ I plan on using this data set to create a classification algorithm that would pr
 The data set was extracted from the [website](https://www.figure-eight.com/data-for-everyone/). Data set is no longer on the current website. This data set can also be download from the [website](https://data.world/crowdflower/image-descriptions). 
 
 ### Wiki
-Please refer to the wiki for a detailed breakdown of my project.
+Please refer to the [wiki](https://github.com/davidlamcanada/Ryerson-CKME136/wiki) for a detailed breakdown of my project.
