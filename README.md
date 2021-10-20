@@ -18,6 +18,6 @@ I extracted the dataset from the [website](https://www.figure-eight.com/data-for
 Please refer to the [wiki](https://github.com/davidlamcanada/Ryerson-CKME136/wiki) for a detailed breakdown of my project.
 
 ### Source
-[Crowdflower / Fight Eight](https://pbs.twimg.com/profile_banners/948636787483660288/1522744008/1500x500)
+[Crowdflower changes name to Fight Eight](https://pbs.twimg.com/profile_banners/948636787483660288/1522744008/1500x500)
 
-[Figure Eight / Appen](https://mma.prnewswire.com/media/661541/Figure_Eight_Logo.jpg?p=publish)
+[Figure Eight purchased by Appen](https://mma.prnewswire.com/media/661541/Figure_Eight_Logo.jpg?p=publish)
