@@ -2,19 +2,18 @@
 <html>
   
 <head>
-  
-<meta charset="UTF-8">
-  
-<h1> Ryerson University - CKME136 Capstone Project </h1>
-  
-<h2> Image Descriptions </h2>
-  
-<img src = "https://pbs.twimg.com/profile_banners/948636787483660288/1522744008/1500x500" width="400x" alt="Crowdflower changes name to Figure Eight">  
-<img src = "https://mma.prnewswire.com/media/661541/Figure_Eight_Logo.jpg?p=publish" width="400x" alt="Figure Eight purchased by Appen"> 
-  
+  <meta charset="UTF-8">
 </head>
   
 <body>
+  
+  <h1> Ryerson University - CKME136 Capstone Project </h1>
+ 
+  <h2> Image Descriptions </h2>
+  
+  <img src = "https://pbs.twimg.com/profile_banners/948636787483660288/1522744008/1500x500" width="400x" alt="Crowdflower changes name to Figure Eight">  
+  
+  <img src = "https://mma.prnewswire.com/media/661541/Figure_Eight_Logo.jpg?p=publish" width="400x" alt="Figure Eight purchased by Appen"> 
   
   <h3> Purpose </h3>
     <p> This capstone project was my final assignment for completing the Data Analytics program at Ryerson University. </p>
