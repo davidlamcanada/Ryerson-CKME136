@@ -22,7 +22,7 @@
     <p> I plan to use this dataset to create a classification algorithm that would predict the best word and image combinations. </p>
   
   <h3> Data </h3>
-    <p> I extracted the dataset from <a href="https://www.figure-eight.com/data-for-everyone/"> Figure Eight's Website </a>. Unfortunately, the dataset is no longer on the original website. The dataset is still available on <a href="https://data.world/crowdflower/image-descriptions"> Data.World's Website </a>. </p>
+    <p> I extracted the dataset from <a href="https://www.figure-eight.com/data-for-everyone/"> Figure Eight's Website. </a> Unfortunately, the dataset is no longer on the original website. The dataset is still available on <a href="https://data.world/crowdflower/image-descriptions"> Data World's Website. </a> </p>
   
   <h3> Wiki </h3>
     <p> Please refer to the <a href="https://github.com/davidlamcanada/Ryerson-CKME136/wiki"> Wiki </a> for a detailed breakdown of my project. </p>
